@@ -1,22 +1,26 @@
-[中文](#中文) | [English](#english)
+<h1 align="center">你好 👋，我是 <a href="https://github.com/jwwang2025">Startint</a></h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=AI%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;AI+Agent+%E6%9E%84%E5%BB%BA%E8%80%85;%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%E4%B8%8E%E5%88%9B%E9%80%A0&center=true&width=420&height=35&font=Fira+Code&color=58A6FF&vCenter=true" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <a href="mailto:jwwang_mail@163.com"><img src="https://img.shields.io/badge/Email-jwwang__mail@163.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/jwwang2025"><img src="https://img.shields.io/badge/GitHub-jwwang2025-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_China-red?style=flat-square" alt="Location" />
+</p>
 
 ---
 
-<a id="中文"></a>
-
-<h1 align="center">你好 👋，我是 <a href="https://github.com/jwwang2025">Startint</a></h1>
-<h3 align="center">💻 AI应用开发 | AI Agent 🤠</h3>
-
-
-
-<p align="center">
-  📍 中国 &nbsp;|&nbsp; 📧 jwwang_mail@163.com &nbsp;|&nbsp;
-</p>
-
-
 <div align="center">
-![snake](https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+
+- 🔭 专注于 AI Agent 与应用开发
+- 🌱 持续探索全栈开发与 AI 的新边界
+- 💬 欢迎交流 AI、Agent、全栈开发相关话题
 
 <h3 align="left">语言和工具：</h3>
 
@@ -26,7 +30,7 @@
     <td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://pytorch.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.w3.org/html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a></td>
@@ -39,21 +43,18 @@
   </tr>
 </table>
 
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=jwwang2025&column=8&row=1)](https://github.com/jwwang2025)
-
-</div>
-
+---
 
 ## 📊 GitHub统计
 
-![王敬文的GitHub统计](https://github-readme-stats.vercel.app/api?username=jwwang2025&show_icons=true&theme=dark)
+<div align="center">
+  <a href="https://github.com/jwwang2025">
+    <img src="https://github-profile-trophy.vercel.app/?username=jwwang2025&column=8&row=1&theme=dark" alt="Trophy" />
+  </a>
+</div>
 
-![主要语言](https://github-readme-stats.vercel.app/api/top-langs/?username=jwwang2025&layout=compact&theme=dark)
-
----
-
-## 📬 联系方式
-
-- **邮箱:** jwwang_mail@163.com
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jwwang2025&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwwang2025&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</div>
