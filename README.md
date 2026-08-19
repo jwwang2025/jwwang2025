@@ -22,8 +22,6 @@
   </picture>
 </div>
 
-![https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg)
-
 
 - 🔭 专注于 AI Agent 与应用开发
 - 🌱 持续探索全栈开发与 AI 的新边界
