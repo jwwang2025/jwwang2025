@@ -53,12 +53,12 @@
 
 <div align="center">
   <a href="https://github.com/jwwang2025">
-    <img src="https://github-profile-trophy.vercel.app/?username=jwwang2025&column=8&row=1&theme=dark" alt="Trophy" />
+    <img src="https://stable-github-profile-trophy.vercel.app/?username=jwwang2025&column=8&row=1&theme=dark" alt="Trophy" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jwwang2025&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=jwwang2025&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwwang2025&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jwwang2025&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
