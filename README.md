@@ -22,6 +22,9 @@
   </picture>
 </div>
 
+![https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg)
+
+
 - 🔭 专注于 AI Agent 与应用开发
 - 🌱 持续探索全栈开发与 AI 的新边界
 - 💬 欢迎交流 AI、Agent、全栈开发相关话题
@@ -58,7 +61,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jwwang2025&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jwwang2025&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center"><img src="https://github-readme-stats.shion.dev/api?username=jwwang2025&show_icons=true&theme=dark&hide_border=true&card_width=410&cache_seconds=86400" alt="GitHub Stats" /></td>
+      <td width="50%" align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jwwang2025&layout=compact&theme=dark&hide_border=true&card_width=410&cache_seconds=86400" alt="Top Languages" /></td>
+    </tr>
+  </table>
 </div>
