@@ -21,8 +21,7 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-
+- 🧠 Agent 的核心是记忆，而试错与迭代是记忆积累的关键
 - 🔭 专注于 AI Agent 与应用开发
 - 🌱 持续探索全栈开发与 AI 的新边界
 - 💬 欢迎交流 AI、Agent、全栈开发相关话题
