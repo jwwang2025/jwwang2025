@@ -41,7 +41,7 @@
     <td><a href="https://www.w3.org/html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.w3schools.com/css"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://github.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="40" height="40" alt="GitHub"/></a></td>
+    <td><a href="https://github.com"><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" height="40" alt="GitHub"/></a></td>
     <td><a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a></td>
