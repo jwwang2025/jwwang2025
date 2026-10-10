@@ -29,6 +29,20 @@
 - 🌱 持续探索全栈开发与 AI 的新边界
 - 💬 欢迎交流 AI、Agent、全栈开发相关话题
 
+<h3 align="left">我的经历：</h3>
+
+<table>
+  <tr>
+    <td width="64" align="center" valign="middle">
+      <a href="https://www.bit.edu.cn"><img src="assets/bit-logo.svg" width="48" height="48" alt="北京理工大学校徽" /></a>
+    </td>
+    <td valign="middle">
+      <a href="https://www.bit.edu.cn"><strong>北京理工大学</strong></a> · 计算机硕士在读<br />
+      <sub>📅 2026.09 - 2029.06</sub>
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">语言和工具：</h3>
 
 <table>
