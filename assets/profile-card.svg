@@ -1,35 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0e1622"/>
       <stop offset="55%" stop-color="#0d1521"/>
       <stop offset="100%" stop-color="#101d2e"/>
     </linearGradient>
-
-    <!-- 星球外柔光 -->
     <radialGradient id="aura" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#67e8d4" stop-opacity="0.20"/>
       <stop offset="60%" stop-color="#3aa7c9" stop-opacity="0.07"/>
       <stop offset="100%" stop-color="#0d1521" stop-opacity="0"/>
     </radialGradient>
-
-    <!-- 球体内部深空 -->
     <radialGradient id="sphere" cx="38%" cy="32%" r="80%">
       <stop offset="0%" stop-color="#1d4163"/>
       <stop offset="45%" stop-color="#11294a"/>
       <stop offset="78%" stop-color="#0a1a30"/>
       <stop offset="100%" stop-color="#050d1a"/>
     </radialGradient>
-
-    <!-- 玻璃边缘光 rim light -->
     <radialGradient id="rim" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#9fe3f5" stop-opacity="0"/>
       <stop offset="74%" stop-color="#9fe3f5" stop-opacity="0"/>
       <stop offset="90%" stop-color="#9fe3f5" stop-opacity="0.10"/>
       <stop offset="100%" stop-color="#bdeefb" stop-opacity="0.55"/>
     </radialGradient>
-
-    <!-- 行星环 -->
     <linearGradient id="ring" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#5eead4" stop-opacity="0.05"/>
       <stop offset="18%" stop-color="#7fe8d8" stop-opacity="0.75"/>
@@ -44,146 +36,140 @@
       <stop offset="80%" stop-color="#5d93c4" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#7cc7ff" stop-opacity="0.05"/>
     </linearGradient>
-
     <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#eafffb"/>
       <stop offset="35%" stop-color="#7fe8d8"/>
       <stop offset="100%" stop-color="#2aa198" stop-opacity="0"/>
     </radialGradient>
-
     <filter id="blur6" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="6"/></filter>
     <filter id="blur12" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12"/></filter>
-
     <clipPath id="ballClip">
-      <circle cx="688" cy="180" r="92"/>
+      <circle cx="690" cy="150" r="77"/>
     </clipPath>
-
-    <!-- 四角星芒 symbol -->
     <symbol id="spark" viewBox="-10 -10 20 20" overflow="visible">
       <path d="M0,-10 L2.1,-2.1 L10,0 L2.1,2.1 L0,10 L-2.1,2.1 L-10,0 L-2.1,-2.1 Z"/>
     </symbol>
   </defs>
 
   <!-- card -->
-  <rect x="1.5" y="1.5" width="697" height="357" rx="26" fill="url(#bg)" stroke="#223042" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="877" height="297" rx="26" fill="url(#bg)" stroke="#223042" stroke-width="1.5"/>
 
   <!-- 背景极淡星点 -->
   <g fill="#cfe6f5">
-    <circle cx="120" cy="60" r="1.3" opacity="0.25"/>
-    <circle cx="430" cy="44" r="1.5" opacity="0.3"/>
-    <circle cx="520" cy="300" r="1.3" opacity="0.22"/>
-    <circle cx="250" cy="320" r="1.2" opacity="0.2"/>
-    <circle cx="60" cy="240" r="1.2" opacity="0.18"/>
-    <circle cx="660" cy="330" r="1.4" opacity="0.28"/>
-    <circle cx="632" cy="40" r="1.2" opacity="0.25"/>
+    <circle cx="120" cy="50" r="1.3" opacity="0.25"/>
+    <circle cx="430" cy="36" r="1.5" opacity="0.3"/>
+    <circle cx="520" cy="268" r="1.3" opacity="0.22"/>
+    <circle cx="250" cy="280" r="1.2" opacity="0.2"/>
+    <circle cx="60" cy="220" r="1.2" opacity="0.18"/>
+    <circle cx="840" cy="282" r="1.4" opacity="0.28"/>
+    <circle cx="812" cy="30" r="1.2" opacity="0.25"/>
   </g>
 
   <!-- ============ 右侧：玻璃水晶星球 ============ -->
-  <g transform="translate(556,180) scale(0.96) translate(-688,-180)">
+  <g>
     <!-- 地面投影 -->
-    <ellipse cx="688" cy="306" rx="112" ry="13" fill="#000000" opacity="0.42" filter="url(#blur12)"/>
+    <ellipse cx="690" cy="256" rx="94" ry="11" fill="#000000" opacity="0.42" filter="url(#blur12)"/>
 
     <!-- 外柔光 -->
-    <circle cx="688" cy="180" r="128" fill="url(#aura)"/>
+    <circle cx="690" cy="150" r="108" fill="url(#aura)"/>
 
     <!-- 行星环后半（上半弧） -->
-    <g transform="rotate(-16 688 180)">
-      <path d="M560,180 A128,30 0 0 1 816,180" fill="none" stroke="url(#ring)" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
-      <path d="M572,178.5 A116,25 0 0 1 804,178.5" fill="none" stroke="#ffffff" stroke-width="1.4" stroke-linecap="round" opacity="0.35"/>
+    <g transform="rotate(-16 690 150)">
+      <path d="M582,150 A108,25 0 0 1 798,150" fill="none" stroke="url(#ring)" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
+      <path d="M592,148.8 A98,21 0 0 1 788,148.8" fill="none" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" opacity="0.35"/>
     </g>
 
     <!-- 球体 -->
-    <circle cx="688" cy="180" r="92" fill="url(#sphere)"/>
+    <circle cx="690" cy="150" r="77" fill="url(#sphere)"/>
 
     <!-- 球内星空（裁剪在球内） -->
     <g clip-path="url(#ballClip)">
       <!-- 星座连线 -->
-      <g stroke="#8fd8e8" stroke-opacity="0.32" stroke-width="1.1" stroke-linecap="round">
-        <line x1="630" y1="138" x2="664" y2="158"/>
-        <line x1="664" y1="158" x2="702" y2="142"/>
-        <line x1="702" y1="142" x2="738" y2="168"/>
-        <line x1="664" y1="158" x2="678" y2="196"/>
-        <line x1="678" y1="196" x2="720" y2="208"/>
-        <line x1="738" y1="168" x2="720" y2="208"/>
-        <line x1="636" y1="196" x2="678" y2="196"/>
-        <line x1="630" y1="138" x2="636" y2="196"/>
+      <g stroke="#8fd8e8" stroke-opacity="0.32" stroke-width="1" stroke-linecap="round">
+        <line x1="641" y1="115" x2="670" y2="132"/>
+        <line x1="670" y1="132" x2="702" y2="118"/>
+        <line x1="702" y1="118" x2="732" y2="140"/>
+        <line x1="670" y1="132" x2="682" y2="163"/>
+        <line x1="682" y1="163" x2="717" y2="174"/>
+        <line x1="732" y1="140" x2="717" y2="174"/>
+        <line x1="646" y1="163" x2="682" y2="163"/>
+        <line x1="641" y1="115" x2="646" y2="163"/>
       </g>
       <!-- 星点 -->
       <g fill="#ffffff">
-        <circle cx="630" cy="138" r="2.4" opacity="0.95"/>
-        <circle cx="664" cy="158" r="1.8" opacity="0.8"/>
-        <circle cx="702" cy="142" r="2.2" opacity="0.9"/>
-        <circle cx="738" cy="168" r="1.7" opacity="0.75"/>
-        <circle cx="678" cy="196" r="1.6" opacity="0.7"/>
-        <circle cx="720" cy="208" r="2.1" opacity="0.85"/>
-        <circle cx="636" cy="196" r="1.5" opacity="0.65"/>
-        <circle cx="656" cy="226" r="1.3" opacity="0.6"/>
-        <circle cx="728" cy="126" r="1.4" opacity="0.7"/>
-        <circle cx="700" cy="232" r="1.2" opacity="0.55"/>
+        <circle cx="641" cy="115" r="2" opacity="0.95"/>
+        <circle cx="670" cy="132" r="1.5" opacity="0.8"/>
+        <circle cx="702" cy="118" r="1.9" opacity="0.9"/>
+        <circle cx="732" cy="140" r="1.4" opacity="0.75"/>
+        <circle cx="682" cy="163" r="1.4" opacity="0.7"/>
+        <circle cx="717" cy="174" r="1.8" opacity="0.85"/>
+        <circle cx="646" cy="163" r="1.3" opacity="0.65"/>
+        <circle cx="663" cy="189" r="1.1" opacity="0.6"/>
+        <circle cx="724" cy="105" r="1.2" opacity="0.7"/>
+        <circle cx="700" cy="194" r="1" opacity="0.55"/>
       </g>
       <!-- 球内小星芒 -->
-      <use href="#spark" x="716" y="118" width="16" height="16" fill="#bff7ec" opacity="0.9"/>
-      <use href="#spark" x="618" y="166" width="11" height="11" fill="#cfe6ff" opacity="0.75"/>
-      <use href="#spark" x="736" y="222" width="9" height="9" fill="#ffffff" opacity="0.6"/>
+      <use href="#spark" x="717" y="98" width="14" height="14" fill="#bff7ec" opacity="0.9"/>
+      <use href="#spark" x="631" y="138" width="10" height="10" fill="#cfe6ff" opacity="0.75"/>
+      <use href="#spark" x="729" y="185" width="8" height="8" fill="#ffffff" opacity="0.6"/>
 
       <!-- 发光核心 -->
-      <circle cx="692" cy="180" r="30" fill="url(#coreGlow)" opacity="0.85"/>
-      <circle cx="692" cy="180" r="8" fill="#f2fffd"/>
-      <circle cx="689" cy="177" r="3" fill="#ffffff"/>
+      <circle cx="690" cy="150" r="25" fill="url(#coreGlow)" opacity="0.85"/>
+      <circle cx="690" cy="150" r="7" fill="#f2fffd"/>
+      <circle cx="687.5" cy="147.5" r="2.6" fill="#ffffff"/>
 
       <!-- 内部星云薄雾 -->
-      <ellipse cx="640" cy="232" rx="60" ry="26" fill="#2f7fb8" opacity="0.18" filter="url(#blur12)"/>
-      <ellipse cx="736" cy="126" rx="46" ry="20" fill="#5eead4" opacity="0.10" filter="url(#blur12)"/>
+      <ellipse cx="650" cy="194" rx="50" ry="22" fill="#2f7fb8" opacity="0.18" filter="url(#blur12)"/>
+      <ellipse cx="730" cy="105" rx="38" ry="17" fill="#5eead4" opacity="0.10" filter="url(#blur12)"/>
     </g>
 
     <!-- 玻璃边缘光 -->
-    <circle cx="688" cy="180" r="92" fill="url(#rim)"/>
-    <!-- 整球微弱玻璃反射层 -->
-    <circle cx="688" cy="180" r="91.5" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.12"/>
+    <circle cx="690" cy="150" r="77" fill="url(#rim)"/>
+    <circle cx="690" cy="150" r="76.5" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.12"/>
 
     <!-- 顶部柔光高光 -->
-    <ellipse cx="655" cy="142" rx="38" ry="25" fill="#dff3ff" opacity="0.13" filter="url(#blur12)" transform="rotate(-24 655 142)"/>
-    <ellipse cx="646" cy="133" rx="10" ry="5.5" fill="#ffffff" opacity="0.5" transform="rotate(-24 646 133)"/>
+    <ellipse cx="662" cy="118" rx="32" ry="21" fill="#dff3ff" opacity="0.13" filter="url(#blur12)" transform="rotate(-24 662 118)"/>
+    <ellipse cx="654" cy="110" rx="9" ry="5" fill="#ffffff" opacity="0.5" transform="rotate(-24 654 110)"/>
     <!-- 底部环境反光 -->
-    <ellipse cx="688" cy="254" rx="52" ry="11" fill="#67e8d4" opacity="0.14" filter="url(#blur6)"/>
+    <ellipse cx="690" cy="212" rx="44" ry="9" fill="#67e8d4" opacity="0.14" filter="url(#blur6)"/>
 
     <!-- 行星环前半（下半弧，压在球上） -->
-    <g transform="rotate(-16 688 180)">
-      <path d="M560,180 A128,30 0 0 0 816,180" fill="none" stroke="url(#ringFront)" stroke-width="7" stroke-linecap="round"/>
-      <path d="M572,181.5 A116,25 0 0 0 804,181.5" fill="none" stroke="#eafcff" stroke-width="1.2" stroke-linecap="round" opacity="0.22"/>
+    <g transform="rotate(-16 690 150)">
+      <path d="M582,150 A108,25 0 0 0 798,150" fill="none" stroke="url(#ringFront)" stroke-width="6" stroke-linecap="round"/>
+      <path d="M592,151.2 A98,21 0 0 0 788,151.2" fill="none" stroke="#eafcff" stroke-width="1" stroke-linecap="round" opacity="0.22"/>
     </g>
 
     <!-- 球外环绕星芒 -->
-    <use href="#spark" x="806" y="86" width="30" height="30" fill="#ffe9b8" opacity="0.95"/>
-    <use href="#spark" x="556" y="104" width="20" height="20" fill="#bdeaff" opacity="0.85"/>
-    <use href="#spark" x="818" y="232" width="16" height="16" fill="#7fe8d8" opacity="0.8"/>
-    <use href="#spark" x="572" y="250" width="13" height="13" fill="#ffffff" opacity="0.6"/>
-    <use href="#spark" x="770" y="60" width="11" height="11" fill="#ffffff" opacity="0.55"/>
+    <use href="#spark" x="789" y="71" width="26" height="26" fill="#ffe9b8" opacity="0.95"/>
+    <use href="#spark" x="579" y="86" width="17" height="17" fill="#bdeaff" opacity="0.85"/>
+    <use href="#spark" x="799" y="194" width="14" height="14" fill="#7fe8d8" opacity="0.8"/>
+    <use href="#spark" x="593" y="209" width="11" height="11" fill="#ffffff" opacity="0.6"/>
+    <use href="#spark" x="759" y="49" width="10" height="10" fill="#ffffff" opacity="0.55"/>
     <!-- 环绕微粒子 -->
     <g fill="#8fd8e8">
-      <circle cx="842" cy="150" r="2.2" opacity="0.7"/>
-      <circle cx="548" cy="186" r="1.8" opacity="0.55"/>
-      <circle cx="770" cy="290" r="1.8" opacity="0.5"/>
-      <circle cx="836" cy="262" r="1.5" opacity="0.45"/>
+      <circle cx="819" cy="125" r="2" opacity="0.7"/>
+      <circle cx="572" cy="155" r="1.6" opacity="0.55"/>
+      <circle cx="759" cy="242" r="1.6" opacity="0.5"/>
+      <circle cx="814" cy="219" r="1.3" opacity="0.45"/>
     </g>
   </g>
 
   <!-- ============ 左侧内容 ============ -->
-  <rect x="64" y="62" width="36" height="4" rx="2" fill="#5eead4"/>
-  <text x="112" y="68" font-size="11" font-weight="600" letter-spacing="3" fill="#93b8c8">STARTINT / AI AGENT · FULL-STACK</text>
+  <rect x="64" y="54" width="36" height="4" rx="2" fill="#5eead4"/>
+  <text x="112" y="60" font-size="11" font-weight="600" letter-spacing="3" fill="#93b8c8">STARTINT / AI AGENT · FULL-STACK</text>
 
-  <text x="62" y="146" font-size="54" font-weight="800" fill="#f6f9fd">Startint</text>
+  <text x="62" y="128" font-size="54" font-weight="800" fill="#f6f9fd">Startint</text>
 
-  <text x="64" y="208" font-size="16" fill="#dbe6f2">AI 应用开发工程师 · AI Agent 构建者</text>
+  <text x="64" y="170" font-size="16" fill="#dbe6f2">AI 应用开发工程师 · AI Agent 构建者</text>
 
   <g font-size="13" font-weight="600">
-    <rect x="64" y="258" width="104" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#2c4056" stroke-width="1.2"/>
-    <text x="116" y="275" text-anchor="middle" dominant-baseline="central" fill="#bcd2ee">AI Agent</text>
+    <rect x="64" y="204" width="104" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#2c4056" stroke-width="1.2"/>
+    <text x="116" y="221" text-anchor="middle" dominant-baseline="central" fill="#bcd2ee">AI Agent</text>
 
-    <rect x="184" y="258" width="126" height="34" rx="17" fill="#5eead4" fill-opacity="0.07" stroke="#3d6b6b" stroke-width="1.2"/>
-    <text x="247" y="275" text-anchor="middle" dominant-baseline="central" fill="#7fe8d8">LLM Memory</text>
+    <rect x="184" y="204" width="126" height="34" rx="17" fill="#5eead4" fill-opacity="0.07" stroke="#3d6b6b" stroke-width="1.2"/>
+    <text x="247" y="221" text-anchor="middle" dominant-baseline="central" fill="#7fe8d8">LLM Memory</text>
 
-    <rect x="326" y="258" width="108" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#2c4056" stroke-width="1.2"/>
-    <text x="380" y="275" text-anchor="middle" dominant-baseline="central" fill="#bcd2ee">Full-Stack</text>
+    <rect x="326" y="204" width="108" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#2c4056" stroke-width="1.2"/>
+    <text x="380" y="221" text-anchor="middle" dominant-baseline="central" fill="#bcd2ee">Full-Stack</text>
   </g>
 </svg>
