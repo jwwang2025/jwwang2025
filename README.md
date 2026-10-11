@@ -1,24 +1,18 @@
-<table>
-  <tr>
-    <td width="170" align="center" valign="middle">
-      <a href="https://github.com/jwwang2025"><img src="https://github.com/jwwang2025.png" width="150" height="150" alt="Startint 的 GitHub 头像" /></a>
-    </td>
-    <td valign="middle">
-      <h2>你好 👋，我是 <a href="https://github.com/jwwang2025">Startint</a></h2>
-      <p>
-        <img src="https://readme-typing-svg.demolab.com?lines=AI%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;AI+Agent+%E6%9E%84%E5%BB%BA%E8%80%85;%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%E4%B8%8E%E5%88%9B%E9%80%A0&width=420&height=35&font=Fira+Code&color=58A6FF&vCenter=true" alt="Typing SVG" />
-      </p>
-      <p>
-        <a href="mailto:jwwang_mail@163.com"><img src="https://img.shields.io/badge/Email-jwwang__mail@163.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-        &nbsp;
-        <a href="https://github.com/jwwang2025"><img src="https://img.shields.io/badge/GitHub-jwwang2025-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/📍_China-red?style=flat-square" alt="Location" />
-      </p>
-      <p>🎓 北京理工大学 · 计算机硕士在读　·　💡 专注 AI Agent 与应用开发</p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/jwwang2025"><img src="assets/profile-card.svg" width="100%" alt="Startint 的个人卡片" /></a>
+
+<h1 align="center">你好 👋，我是 <a href="https://github.com/jwwang2025">Startint</a></h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=AI%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;AI+Agent+%E6%9E%84%E5%BB%BA%E8%80%85;%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%E4%B8%8E%E5%88%9B%E9%80%A0&center=true&width=420&height=35&font=Fira+Code&color=58A6FF&vCenter=true" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <a href="mailto:jwwang_mail@163.com"><img src="https://img.shields.io/badge/Email-jwwang__mail@163.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/jwwang2025"><img src="https://img.shields.io/badge/GitHub-jwwang2025-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_China-red?style=flat-square" alt="Location" />
+</p>
 
 ---
 
@@ -77,12 +71,8 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" align="center"><a href="https://github.com/jwwang2025/MiniHarness"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jwwang2025&repo=MiniHarness&theme=dark&hide_border=true&cache_seconds=86400" alt="MiniHarness" /></a></td>
-      <td width="50%" align="center"><a href="https://github.com/jwwang2025/dsh-lsp-passive-feedback"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jwwang2025&repo=dsh-lsp-passive-feedback&theme=dark&hide_border=true&cache_seconds=86400" alt="dsh-lsp-passive-feedback" /></a></td>
-    </tr>
-    <tr>
-      <td width="50%" align="center"><a href="https://github.com/jwwang2025/KnowledgeGraph-RAG"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jwwang2025&repo=KnowledgeGraph-RAG&theme=dark&hide_border=true&cache_seconds=86400" alt="KnowledgeGraph-RAG" /></a></td>
-      <td width="50%" align="center"><a href="https://github.com/jwwang2025/deepseek-harness"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jwwang2025&repo=deepseek-harness&theme=dark&hide_border=true&cache_seconds=86400" alt="deepseek-harness" /></a></td>
+      <td width="50%" align="center"><a href="https://github.com/jwwang2025/MiniHarness"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jwwang2025&repo=MiniHarness&theme=dark&hide_border=true&card_width=410&cache_seconds=86400" alt="MiniHarness" /></a></td>
+      <td width="50%" align="center"><a href="https://github.com/jwwang2025/KnowledgeGraph-RAG"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jwwang2025&repo=KnowledgeGraph-RAG&theme=dark&hide_border=true&card_width=410&cache_seconds=86400" alt="KnowledgeGraph-RAG" /></a></td>
     </tr>
   </table>
 </div>
