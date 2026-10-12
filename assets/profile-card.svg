@@ -166,10 +166,10 @@
     <rect x="64" y="204" width="104" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#2c4056" stroke-width="1.2"/>
     <text x="116" y="221" text-anchor="middle" dominant-baseline="central" fill="#bcd2ee">AI Agent</text>
 
-    <rect x="184" y="204" width="126" height="34" rx="17" fill="#5eead4" fill-opacity="0.07" stroke="#3d6b6b" stroke-width="1.2"/>
-    <text x="247" y="221" text-anchor="middle" dominant-baseline="central" fill="#7fe8d8">LLM Memory</text>
+    <rect x="184" y="204" width="136" height="34" rx="17" fill="#5eead4" fill-opacity="0.07" stroke="#3d6b6b" stroke-width="1.2"/>
+    <text x="252" y="221" text-anchor="middle" dominant-baseline="central" fill="#7fe8d8">Agent Memory</text>
 
-    <rect x="326" y="204" width="108" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#2c4056" stroke-width="1.2"/>
-    <text x="380" y="221" text-anchor="middle" dominant-baseline="central" fill="#bcd2ee">Full-Stack</text>
+    <rect x="336" y="204" width="108" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#2c4056" stroke-width="1.2"/>
+    <text x="390" y="221" text-anchor="middle" dominant-baseline="central" fill="#bcd2ee">Full-Stack</text>
   </g>
 </svg>

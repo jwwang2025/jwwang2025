@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-<h3 align="left">🚀 开源项目 · Projects：</h3>
+<h3 align="left">Projects：</h3>
 
 <div align="center">
   <table width="100%">
