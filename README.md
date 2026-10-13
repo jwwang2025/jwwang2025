@@ -33,14 +33,16 @@
 
 <h3 align="left">我的经历：</h3>
 
-<table>
+<table width="100%">
   <tr>
     <td width="64" align="center" valign="middle">
       <a href="https://www.bit.edu.cn"><img src="assets/bit-logo.svg" width="48" height="48" alt="北京理工大学校徽" /></a>
     </td>
     <td valign="middle">
-      <a href="https://www.bit.edu.cn"><strong>北京理工大学</strong></a> · 计算机硕士在读<br />
-      <sub>📅 2026.09 - 2029.06</sub>
+      <a href="https://www.bit.edu.cn"><strong>北京理工大学</strong></a> · 计算机硕士在读
+    </td>
+    <td align="right" valign="middle">
+      <sub>2026.09 - 2029.06</sub>
     </td>
   </tr>
 </table>
@@ -79,7 +81,7 @@
 
 ---
 
-## 📊 GitHub统计
+<h3 align="left">GitHub统计：</h3>
 
 <div align="center">
   <a href="https://github.com/jwwang2025">
