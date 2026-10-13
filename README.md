@@ -33,19 +33,13 @@
 
 <h3 align="left">我的经历：</h3>
 
-<table width="100%">
-  <tr>
-    <td width="64" align="center" valign="middle">
-      <a href="https://www.bit.edu.cn"><img src="assets/bit-logo.svg" width="48" height="48" alt="北京理工大学校徽" /></a>
-    </td>
-    <td valign="middle">
-      <a href="https://www.bit.edu.cn"><strong>北京理工大学</strong></a> · 计算机硕士在读
-    </td>
-    <td align="right" valign="middle">
-      <sub>2026.09 - 2029.06</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://www.bit.edu.cn">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg" />
+    <img src="assets/experience-light.svg" width="100%" alt="北京理工大学 · 计算机硕士在读 · 2026.09 - 2029.06" />
+  </picture>
+</a>
 
 <h3 align="left">语言和工具：</h3>
 
