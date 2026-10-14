@@ -50,7 +50,7 @@
     <td><a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://chatgpt.com"><img src="assets/icons/chatgpt.svg" width="40" height="40" alt="ChatGPT"/></a></td>
+    <td><a href="https://chatgpt.com"><img src="assets/icons/chatgpt.svg" width="55" height="55" alt="ChatGPT"/></a></td>
   </tr>
 </table>
 
