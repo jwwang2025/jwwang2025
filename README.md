@@ -70,12 +70,6 @@
 <h3 align="left">GitHub统计：</h3>
 
 <div align="center">
-  <a href="https://github.com/jwwang2025">
-    <img src="https://stable-github-profile-trophy.vercel.app/?username=jwwang2025&column=8&row=1&theme=dark" alt="Trophy" />
-  </a>
-</div>
-
-<div align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center"><img src="https://github-readme-stats.shion.dev/api?username=jwwang2025&show_icons=true&theme=dark&hide_border=true&card_width=410&cache_seconds=86400" alt="GitHub Stats" /></td>
