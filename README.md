@@ -16,14 +16,6 @@
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 <h3 align="left">关于我：</h3>
 
 - 🧠 Agent 的核心是记忆，而试错与迭代是记忆积累的关键
@@ -49,16 +41,16 @@
     <td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://pytorch.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/openai/codex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/codex-dark.svg"/><img src="assets/icons/codex-light.svg" width="40" height="40" alt="Codex"/></picture></a></td>
     <td><a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.workbuddy.cn"><img src="assets/icons/workbuddy.svg" width="40" height="40" alt="WorkBuddy"/></a></td>
+    <td><a href="https://www.trae.cn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/trae-dark.svg"/><img src="assets/icons/trae-light.svg" width="40" height="40" alt="Trae"/></picture></a></td>
     <td><a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://chatgpt.com"><img src="assets/icons/chatgpt.svg" width="40" height="40" alt="ChatGPT"/></a></td>
   </tr>
 </table>
 
@@ -90,4 +82,12 @@
       <td width="50%" align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jwwang2025&layout=compact&theme=dark&hide_border=true&card_width=410&cache_seconds=86400" alt="Top Languages" /></td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jwwang2025/jwwang2025/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
