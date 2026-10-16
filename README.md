@@ -29,7 +29,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg" />
-    <img src="assets/experience-light.svg" width="100%" alt="北京理工大学 · 计算机硕士在读 · 2026.09 - 2029.06；新疆大学 · 软件工程本科 · 2022.09 - 2026.06" />
+    <img src="assets/experience-light.svg" width="100%" alt="北京理工大学 · 计算机硕士在读 · 2026.09 - 2029.06" />
+  </picture>
+</a>
+<a href="https://www.xju.edu.cn">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/experience-xju-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/experience-xju-light.svg" />
+    <img src="assets/experience-xju-light.svg" width="100%" alt="新疆大学 · 软件工程本科 · 2022.09 - 2026.06" />
   </picture>
 </a>
 
