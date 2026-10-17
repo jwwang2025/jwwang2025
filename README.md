@@ -1,6 +1,6 @@
 <a href="https://github.com/jwwang2025"><img src="assets/profile-card.svg" width="100%" alt="Startint 的个人卡片" /></a>
 
-<h1 align="center">你好 👋，我是 <a href="https://github.com/jwwang2025">Startint</a></h1>
+<h1 align="center">你好，我是 <a href="https://github.com/jwwang2025">Startint</a></h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=AI%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;AI+Agent+%E6%9E%84%E5%BB%BA%E8%80%85;%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%E4%B8%8E%E5%88%9B%E9%80%A0&center=true&width=420&height=35&font=Fira+Code&color=58A6FF&vCenter=true" alt="Typing SVG" />
@@ -18,10 +18,10 @@
 
 <h3 align="left">关于我：</h3>
 
-- 🧠 Agent 的核心是记忆，而试错与迭代是记忆积累的关键
-- 🔭 专注于 AI Agent 与应用开发
-- 🌱 持续探索全栈开发与 AI 的新边界
-- 💬 欢迎交流 AI、Agent、全栈开发相关话题
+- Agent 的核心是记忆，而试错与迭代是记忆积累的关键
+- 专注于 AI Agent 与应用开发
+- 持续探索全栈开发与 AI 的新边界
+- 欢迎交流 AI、Agent、全栈开发相关话题
 
 <h3 align="left">我的经历：</h3>
 
